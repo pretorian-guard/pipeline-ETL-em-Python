@@ -1,0 +1,13 @@
+CSV (UserID)
+   ↓
+[ Extract ]
+   ↓
+API REST (Dados do Usuário)
+   ↓
+[ Transform ]
+   ↓
+OpenAI GPT-4 (IA Generativa)
+   ↓
+[ Load ]
+   ↓
+API REST (Atualização das News)
