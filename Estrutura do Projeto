@@ -1,0 +1,14 @@
+santander-dev-week-2023/
+│
+├── data/
+│   └── SDW2023.csv
+│
+├── src/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   └── main.py
+│
+├── requirements.txt
+├── README.md
+└── .env
